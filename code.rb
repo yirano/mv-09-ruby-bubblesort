@@ -28,7 +28,7 @@ def bubble_sort_by(arr)
 end
 
 
-# tests
+# Tests
 array = [3, 7, 1, 9, 2, 8]
 p bubble_sort(array)
 
